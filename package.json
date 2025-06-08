@@ -34,15 +34,15 @@
     "api-extractor": "mkdirp etc && npx api-extractor run --local"
   },
   "devDependencies": {
-    "@microsoft/api-extractor": "^7.48.0",
-    "@types/mocha": "^9.1.0",
-    "@types/node": "^16.6.1",
-    "copy-webpack-plugin": "^9.1.0",
+    "@microsoft/api-extractor": "^7.52.8",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.15.30",
+    "copy-webpack-plugin": "^13.0.0",
     "mkdirp": "^3.0.1",
-    "mocha": "^11.1.0",
-    "typescript": "^4.3.5",
-    "vscode-oniguruma": "^1.5.1",
-    "webpack": "^5.50.0",
-    "webpack-cli": "^4.8.0"
+    "mocha": "^11.5.0",
+    "typescript": "^5.8.3",
+    "vscode-oniguruma": "^2.0.1",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
   }
 }
